@@ -10,7 +10,7 @@
 
  Computer Science student, software engineer with a focus on mobile development.
 
-## About Me 🙋‍♂️
+## About Me 💆🏻‍♀️
 
 - 🔭 I'm currently working on developing mobile applications and honing my skills in software engineering.
 - 🌱 I'm constantly learning and exploring new technologies and best practices in mobile development.
