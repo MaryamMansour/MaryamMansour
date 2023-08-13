@@ -2,12 +2,13 @@
 # Hi, I'm Maryam! 👀
 
 <div align="center">
-  <img src="https://octodex.github.com/images/motherhubbertocat.png" alt="Cute Image" width="300"/>
+  <img src="https://octodex.github.com/images/motherhubbertocat.png" align="right" alt="Cute Image" width="300"/>
 </div>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MaryamMansour)
 
+ Computer Science student, software engineer with a focus on mobile development.
 
 ## About Me 🙋‍♂️
 
