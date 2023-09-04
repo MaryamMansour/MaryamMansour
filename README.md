@@ -31,4 +31,4 @@ Feel free to reach out to me or connect with me on the following platforms:
 - Email: Maryammansour411@gmail.com
 - LinkedIn: https://www.linkedin.com/in/maryam-mansour-666833206/
 
-I'm always open to interesting discussions, collaborations, and new opportunities. Let's connect and explore together!
+I'm always open to interesting discussions, collaborations, and new opportunities!
