@@ -13,7 +13,6 @@
 ## About Me 🙋🏻‍♀️
 
 - 🔭 I'm currently working on developing mobile applications and honing my skills in software engineering.
-- 🌱 I'm constantly learning and exploring new technologies and best practices in mobile development.
 - 💬 Ask me about mobile app development, software engineering, Algorithms or any related topics.
 - My Resume https://drive.google.com/drive/folders/1XUF8KUadsWwtbyBC7quhL5rwdrWqKY9T?usp=drive_link
 
@@ -28,7 +27,7 @@
 
 
 
-## Connect with Me 🌐
+## Connect with Me 
 
 Feel free to reach out to me or connect with me on the following platforms:
 
