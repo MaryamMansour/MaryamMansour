@@ -8,13 +8,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MaryamMansour)
 
- Computer Science student, software engineer with a focus on mobile development.
+ Software Engineer with a focus on mobile development.
 
 ## About Me 🙋🏻‍♀️
 
 - 🔭 I'm currently working on developing mobile applications and honing my skills in software engineering.
 - 💬 Ask me about mobile app development, software engineering, Algorithms or any related topics.
-- My Resume https://drive.google.com/drive/folders/1XUF8KUadsWwtbyBC7quhL5rwdrWqKY9T?usp=drive_link
+- My Resume https://drive.google.com/file/d/18dFc3Zyd1BU0FAr_R2_ceOZa6NC-TUmX/view?usp=sharing
 
 
 
