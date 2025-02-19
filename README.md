@@ -1,20 +1,15 @@
 
 # Hi, I'm Maryam :)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" align="right" alt="Cute Image" width="300"/>
-</div>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MaryamMansour)
 
  Software Engineer with a focus on mobile development.
 
-## About Me 🙋🏻‍♀️
 
 - 🔭 I'm currently working on developing mobile applications and honing my skills in software engineering.
 - 💬 Ask me about mobile app development, software engineering, Algorithms or any related topics.
-- My Resume https://drive.google.com/file/d/18dFc3Zyd1BU0FAr_R2_ceOZa6NC-TUmX/view?usp=sharing
 
 
 
